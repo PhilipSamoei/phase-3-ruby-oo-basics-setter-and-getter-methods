@@ -22,5 +22,5 @@ end
 bull=Dog.new
 bill=Dog.new
 
-bull.name="Junnie"
-bill.breed="bull dog"
+bull.name="Kate"
+bill.breed="Pug"
